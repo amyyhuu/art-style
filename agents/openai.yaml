@@ -1,0 +1,5 @@
+interface:
+  display_name: "Pink Art"
+  short_description: "Cute pink art prompts, critique, and direction"
+  brand_color: "#FF7AB6"
+  default_prompt: "Use $art to make this idea cute, pink, and aesthetic."
